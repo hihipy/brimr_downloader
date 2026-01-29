@@ -14,7 +14,7 @@ This script transforms what would be hours of clicking into a single, organized 
 
 
 
-The Blue Ridge Institute for Medical Research (BRIMR) provides invaluable NIH funding rankings, but accessing the data comes with some friction:
+The [Blue Ridge Institute for Medical Research (BRIMR)](https://brimr.org/) provides invaluable NIH funding rankings, but accessing the data comes with some friction:
 
 - **Manual Downloads:** Each Excel file must be downloaded individually—and there are 70+ files per year across nearly two decades of data.
 - **No Organization:** Files download with inconsistent names and no folder structure, leaving you with a jumbled mess in your Downloads folder.
@@ -202,3 +202,4 @@ Some files are larger and take longer to download. Check the log file for detail
 
 
 BRIMR Downloader © 2026 – Distributed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
