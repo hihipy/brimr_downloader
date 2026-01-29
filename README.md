@@ -2,7 +2,7 @@
 
 
 
-Hello there! If you've ever spent time manually downloading Excel files from the BRIMR website one by one, you know how tedious it can be. This automated Python utility was built to take that repetitive work off your plate so you can get straight to analyzing NIH funding data.
+If you've ever spent time manually downloading Excel files from the BRIMR website one by one, you know how tedious it can be. This automated Python utility was built to take that repetitive work off your plate so you can get straight to analyzing NIH funding data.
 
 This script transforms what would be hours of clicking into a single, organized download with just a few clicks.
 
@@ -197,6 +197,7 @@ Some files are larger and take longer to download. Check the log file for detail
 
 
 ## License
+
 
 
 
