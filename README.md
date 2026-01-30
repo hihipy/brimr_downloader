@@ -144,6 +144,13 @@ Some files are larger and take longer. Check the log file for progress. You can 
 
 ## License
 
-BRIMR Downloader © 2026
+This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Distributed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+You are free to:
+- Use, share, and adapt this work
+- Use it at your job
+
+Under these terms:
+- **Attribution** — Credit the original author
+- **NonCommercial** — No selling or commercial products
+- **ShareAlike** — Derivatives must use the same license
